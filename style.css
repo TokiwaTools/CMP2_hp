@@ -1,0 +1,60 @@
+@charset "UTF-8";
+p {
+  padding: 0em 1em;
+  line-height: 1.2em;
+}
+h1 {
+  color: #007b43;
+  padding: 0.5em 0.2em;
+}
+h2 {
+  padding: 0.4em 0.4em;
+  margin: 1.5em 0em;
+  border-left: 4px solid #f59c27;
+  color: #17396c;
+  background: #e9e9e9;
+}
+h3 {
+  padding: 0.4em 0.6em;
+  margin: 1.2em 0em;
+  color: #2d8c49;
+  text-decoration: underline;
+}
+table {
+  margin: 0em 2em;
+  border-collapse: collapse;
+}
+table th {
+  border: 1px solid #0d1a3b;
+  padding: 6px;
+  text-align: left;
+  background-color: #b6b6b6;
+  font-weight: bold;
+}
+table td {
+  border: 1px solid #0d1a3b;
+  padding: 8px;
+  background-color: #f4f4f4;
+}
+table td.header {
+  background-color: #b6b6b6;
+  font-weight: bold;
+}
+table td a {
+  font-weight: bold;
+}
+ul {
+  padding: 0em 4em;
+}
+li {
+  line-height: 1.2em;
+}
+.explanation {
+  padding: 0em 1em;
+  margin: 2em 1em;
+  border-left: 3px solid #53a6f4;
+  font-weight: bold;
+}
+.image {
+  margin: 2em;
+}
